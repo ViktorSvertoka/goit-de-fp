@@ -209,3 +209,33 @@ Spark job. Відповідно маєте отримати три такі ск
 
 - Посилання на репозиторій `goit-de-fp`.
 - Прикріплений архів із назвою ФП_ПІБ.
+
+## Фінальний проєкт з курсу Data Engineering
+
+### Результати виконаного завдання № 1
+
+#### Запис даних у таблицю MySQL
+
+![Results](./print_screens/print_screen_01.png)
+
+#### Запис даних у Kafka-топік
+
+![Results](./print_screens/print_screen_02.png)
+
+### Результати виконаного завдання № 2
+
+#### Запис даних у таблицю bronze
+
+![Results](./print_screens/print_screen_03.jpeg)
+
+#### Запис даних у таблицю silver
+
+![Results](./print_screens/print_screen_04.jpeg)
+
+#### Запис даних у таблицю gold
+
+![Results](./print_screens/print_screen_05.jpeg)
+
+#### DAG з усіма відпрацьованими завданнями
+
+![Results](./print_screens/print_screen_06.jpeg)
